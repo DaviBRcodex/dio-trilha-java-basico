@@ -1,5 +1,5 @@
 public class Usuario {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args)  {
 
          SmartTV smartTv = new SmartTV();
 
